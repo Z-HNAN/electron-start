@@ -1,7 +1,7 @@
 {
   "name": "electron-start",
   "productName": "electron-start",
-  "version": "1.0.0",
+  "version": "2.0.0-0",
   "description": "My Electron application description",
   "main": "main/index.js",
   "type": "module",
