@@ -1,13 +1,13 @@
 electron-start
 ===
 
-base `electron-create-app`
+base `Vite + React + Typescript + Electron - Starter`
 
-```bash
-npm init electron-app@latest my-app -- --template=webpack
-```
+[https://github.com/lTimeless/vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter)
+
 
 - electron
 - electron-forge (win, linux, mac)
-- react, typescript, sass
+- vite react, typescript, sass
 - github action, github release
+

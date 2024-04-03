@@ -1,6 +1,6 @@
 declare global {
   interface Window {
-    // electronAPI
+    JSBridge: ReturnType<JSBridge['exposePublic']>
   }
 }
 
